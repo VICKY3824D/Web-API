@@ -1,3 +1,4 @@
+
 //Request menggunakan XMLHttprequesst
 // const req = new XMLHttpRequest();
 // let data;
@@ -48,6 +49,7 @@
 //     .catch((err) => {
 //         console.log('error',err);
 //     });
+
 
 
 //Request Menggunakan async 
