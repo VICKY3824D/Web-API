@@ -68,4 +68,3 @@ const loadPeople = async () => {
 };
 
 loadPeople();
-//hehehe
