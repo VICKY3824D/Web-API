@@ -97,6 +97,6 @@ const getPeople = async (id) => {
     }
 };
 
-for (let i = 1; i <= 10; i++) {
+for (let i = 1; i <= 5; i++) {
     getPeople(i);
 }
